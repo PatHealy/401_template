@@ -1,1 +1,1 @@
-# Lab 9: Linked Lists and File IO
+# Lab 9: Inheritance

@@ -1,1 +1,1 @@
-# Lab 5: Static Methods
+# Lab 5: Arrays

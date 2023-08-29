@@ -1,1 +1,1 @@
-# Lab 10: Inheritance
+# Lab 10: GUIs

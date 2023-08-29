@@ -1,1 +1,1 @@
-# Lab 7: Arrays 
+# Lab 7: Linked Lists

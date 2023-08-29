@@ -1,1 +1,1 @@
-# Lab 2: Variables
+# Lab 2: Control Structures

@@ -1,1 +1,1 @@
-# Lab 1: System Setup
+# Lab 1: Variables

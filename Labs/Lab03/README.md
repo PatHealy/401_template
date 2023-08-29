@@ -1,1 +1,1 @@
-# Lab 3: Control Structures
+# Lab 3: Loops

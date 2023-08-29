@@ -1,1 +1,1 @@
-# Lab 6: Methods, Getters, Setters, etc.
+# Lab 6: Constructors
